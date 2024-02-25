@@ -21,6 +21,9 @@ I'm a passionate tech enthusiast, with a particular fascination for Web Developm
 - 🎓 Computer Science enthusiast and lifelong learner.
 - 🎓 I am currently doing a Bachelor's degree in Technology from CUIT.
 - 🌎 I'm based in Chandigarh.
+- [Connect with me Through mail](codecraftkavya@gmail.com)
+  
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" />
 
 ## 🛠️ Tech Stack
 
@@ -45,10 +48,10 @@ I'm a passionate tech enthusiast, with a particular fascination for Web Developm
 
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/coderkavyag/)
-- [Twitter](https://twitter.com/KavyaGoel19312)
-- [Email](codecraftkavya@gmail.com)
-
+<p align="left">
+<a href="https://www.linkedin.com/in/coderkavyag/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="https://www.linkedin.com/in/coderkavyag/" /></a>
+<a href="https://www.instagram.com/kavigoel_22/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" alt="https://www.instagram.com/kavigoel_22/"/></a>
+</p>
 Feel free to reach out if you'd like to collaborate, discuss tech, or just have a friendly chat. 😄
 
 
