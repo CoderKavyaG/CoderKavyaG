@@ -11,10 +11,12 @@
   
 
 I'm a passionate tech enthusiast, with a particular fascination for Web Development. I also have a strong background in building websites using Javascript. I believe in the transformative potential of technology and enjoy exploring new frontiers like Artificial Intelligence and Web 3. 💪
+ <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
 
 ## 🚀 Quick Facts
 
-- 🔭 I'm currently working on Web 3 Dapps Buidling and React Native.
+- 🔭 I'm currently working on Web 3 Dapps Buidling and JS.
 - 🔭 Front End Developer by day, Code Dreamer by night!
 - 🌈 Turning caffeine into code since Oct 2023.
 - 💡 Believer in the power of clean code and creative problem-solving.
