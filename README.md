@@ -1,5 +1,14 @@
 [![An image of @coderkavyag's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderkavyag)](https://holopin.io/@coderkavyag)
-# 👋 Hi there, I'm Kavya!
+
+<html>
+<body>
+  <span>
+  <h1 align="center"># 👋 Hi there, I'm Kavya!</h1>
+    <p align="center">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Problem+Solving+Expert!;AI+And+OpenSource+Enthusiast!;Web+Developer!;Building+VoidBook!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="README Typing SVG">
+    </p>
+  </span>
+  
 
 I'm a passionate tech enthusiast, with a particular fascination for Web Development. I also have a strong background in building websites using Javascript. I believe in the transformative potential of technology and enjoy exploring new frontiers like Artificial Intelligence and Web 3. 💪
 
