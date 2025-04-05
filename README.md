@@ -41,13 +41,6 @@ I'm a passionate tech enthusiast, with a particular fascination for Web Developm
 - DevLearn - Head of Operations and Management - 16 October 2023-Present
 - Contributor - Hacktoberfest - 1 October 2023-31 October 2023
 
-## 🌟 Fun Projects
-
-- [Netflix Full Clone]() - A Netflix clone website that gives you Netflix visit by not paying for a subscription
-- [Tungster]() - A language learning website that anyone can use to learn Indian languages like Tamil, telgu, gujrati for free.
-- (VoidBook) - A mega project that I have been working on 👀
-
-
 
 ## 📫 Let's Connect
 <p align="left">
