@@ -45,7 +45,9 @@ Hey, kavi this side , a full-stack developer who loves building fun, cool projec
 
 #### 🔷 currently learning
 - **Full-stack development:** Currently working over backend architectures and understanding react states . 
+- **Python:** Currently learning python to understand ai-ml architechtures . 
+
 
 <div align="center">
-  <img src="![](https://komarev.com/ghpvc/?username=coderkavyag&color=orange)" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=coderkavyag&color=orange" alt="Profile views" />
 </div>
