@@ -15,38 +15,91 @@
   </a>
 </p>
 
-
-
 ![](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
----
 
-#### 🔷 my current stack
+## 🔷 my current stack
 - typescript · javascript · react · node.js · express · mongoDB · postgresql · prisma · tailwind
 
-#### 🔷 my latest projects
-
-The most projects started with a small problem statment and ended up teaching different architectures 
-
-- **[Personal Portfolio](https://coderkavyag.me)** — Personal portfolio website to know more about me.
-
-- **[Sum-0](https://github.com/CoderKavyaG/sum0)** — **Website : https://sum-0.vercel.app/** If reading entire LinkedIn posts was a job, I'd quit. ✌️, but here's ​good news , I have built solution , passing you to try for free presenting sum-0 as you don't need to signup anywhere , ​just copy-paste url on website , click on summarize button and read summaries , than move to nxt . And try using it , dms are open for feedbacks as Built with React 19, TypeScript, Tailwind CSS.
-
-- **[Co-Date](https://github.com/CoderKavyaG/co-date)** — **Website : https://co-date.vercel.app/** "What if your birthdate is your coordinates , That "what if" turned into Co-Date as most birthday trackers just show dates on calendar , not interesting. So I built: co-date[dot]vercel[dot]app where your birthday as coordinates on Earth as It's fully open source. If a feature is missing, don't wait, ship it or dm me. As It is built with React.js , TypeScript and Express.js.
-
-- **[Web-Time Tracker](https://github.com/CoderKavyaG/tracker-extension)** — Chrome extension that we can add into the chrome browser / any chromium based browser where you can check the amount of time you spend over the browser , you can customise the time based on you spend on education/learning and enterntainment . Also you can compare the time spent on browsers in overall week , plus you can clear data as well .
-
-- **[Yt-Shorts Blocker](https://github.com/CoderKavyaG/saaf-karna)** — Chrome extension that blocks the youtube shorts completley , disappears shorts from your feed and even if you click over the shorts , the url is blocked , so you will not be able to open them plus, going to the shorts url you are sent back to them youtube main page .
 
 
-#### 🔷 building from basics
+## 🔷 my latest projects
 
-Hey, kavi this side , a full-stack developer who loves building fun, cool projects with a creative mind. I focus on building clean, modern experiences where design, functionality, and the smallest details matter. Currently working over my skills such that tech stack doesn't become a restriction for me. I'm always open to work together and learn.
+Most projects start with a small problem statement and end up teaching me different architectures and product thinking.
 
-#### 🔷 currently learning
-- **Full-stack development:** Currently working over backend architectures and understanding react states . 
-- **Python:** Currently learning python to understand ai-ml architechtures . 
+- **[Personal Portfolio](https://coderkavyag.me)** —  
+  Personal portfolio website to showcase my work, projects, and journey as a full-stack developer.
 
+
+- **[TheDailyDev](https://thedailydev.coderkavyag.me)** —  
+  A centralized developer news platform built to reduce noise and surface only high-signal content.
+  - Aggregates posts from Reddit, Hacker News, and Dev.to (1,000+ posts/day)
+  - Engagement-based ranking instead of time-based feeds
+  - Automated categorization across AI, Engineering, and Web Development
+  - Reduced information consumption time by 66%
+  - Reached 200+ organic users in 7 days
+
+
+- **[CAC-URL](https://cac-url.vercel.app)** —  
+  A secure and scalable URL shortening service with analytics.
+  - Custom short links with expiration policies
+  - Authentication-based URL management
+  - Device-level analytics (browser, referrer, visit history)
+
+
+- **[Brainly](https://brainly-brain.vercel.app/)** —  
+  A clean knowledge-sharing platform focused on structured learning and clarity.
+  - Fast, distraction-free content consumption
+  - Organized information flow with a minimal UI
+  - Built with a modern full-stack approach
+
+
+- **[Luke – Ecommerce Website](https://eccomerce-kgstore.vercel.app/)** —  
+  A modern ecommerce web application focused on clean UI and smooth user experience.
+  - Product listing and browsing flow
+  - Real-world ecommerce architecture understanding
+  - Performance-focused frontend design
+
+
+- **[Sum-0](https://github.com/CoderKavyaG/sum0)** —  
+  **Website:** https://sum-0.vercel.app/  
+  A tool to summarize long LinkedIn posts instantly — no signup required.
+  - Paste a LinkedIn post URL and get a quick summary
+  - Built with React 19, TypeScript, and Tailwind CSS
+
+
+- **[Co-Date](https://github.com/CoderKavyaG/co-date)** —  
+  **Website:** https://co-date.vercel.app/  
+  Turns your birthday into geographic coordinates on Earth.
+  - Visualizes birthdays beyond calendar views
+  - Fully open-source
+  - Built with React, TypeScript, and Express
+
+
+- **[Web-Time Tracker](https://github.com/CoderKavyaG/tracker-extension)** —  
+  Chrome extension to track time spent on websites.
+  - Categorize time into learning vs entertainment
+  - Weekly comparisons and data reset options
+  - Works on all Chromium-based browsers
+
+
+- **[Yt-Shorts Blocker](https://github.com/CoderKavyaG/saaf-karna)** —  
+  Chrome extension that completely blocks YouTube Shorts.
+  - Removes Shorts from feed
+  - Blocks Shorts URLs and redirects to homepage
+  - Helps reduce distraction
+
+## 🔷 building from basics
+
+Hey, kavi this side — a full-stack developer who loves building fun, useful, and creative products.  
+I focus on clean UI, solid backend logic, and thoughtful product decisions.  
+Currently improving my skills so the tech stack never becomes a limitation.
+
+## 🔷 currently learning
+- **Full-stack development:** Backend architectures & advanced React state management  
+- **Python:** To understand AI/ML architectures
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=coderkavyag&color=orange" alt="Profile views" />
