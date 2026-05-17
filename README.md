@@ -150,9 +150,9 @@ A learning tool that makes the invisible visible.
 
 | Project | What it is | Status |
 |--------|-----------|--------|
-| **DevLens** | Visual HTML rendering engine — shows how code becomes pixels | 🟡 Active |
-=| **DevDrop** | Share entire project with one command, open with one link | 🟠 Early stage |
-| **Drift** | Anonymous real-time communication platform using WebRTC | 🟡 Building |
+| **DevLens** | Visual HTML rendering engine — shows how code becomes pixels | 🟡 Building |
+| **DevDrop** | Share entire project with one command, open with one link | 🟠 Early stage |
+| **Drift-Chat** | Anonymous real-time communication platform using WebRTC | 🟡 Active Stage |
 
 ---
 
